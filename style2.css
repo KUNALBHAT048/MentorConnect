@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body {
+    background-color: #181D31 !important;
+    text-decoration: none;
+    color:black;
+    
+  }
+
+  h1,p,h2   {color: #678983;}
+
+  #heading {
+    text-decoration: none;
+    color: #F4EEE0;
+    font-size: 2rem;
+  }
+  a{
+    text-decoration: none;
+  }
+
+  table,
+  th,
+  td {
+    color: white !important;
+  }
+
+  .header {
+
+    line-height: 4vw;
+    padding-left: 2%;
+    margin-bottom: 10%;
+    color: white;
+    text-decoration: none;
+  }
+  .header  div{
+    display:inline-block;
+    margin-right: 3%;
+  }
+  .header a {
+background-color: #7DB9B6;
+text-decoration: none;
+}
+.logout {
+    float: right;
+    padding-right: 30px;
+  }
+.table{
+ 
+}
+  ul{
+  background-color:#262A56;
+  width: 16%;
+  height: 100%;
+  position: fixed;
+  padding-top: 5%;
+  text-align: center;
+  }
+  ul li {
+    list-style: none;
+    padding-bottom: 30px ;
+    font-size: 1rem;
+  }
+
+
+
+/* for the reply and message page */
+  
+    textarea {
+      background-color: #F0E9D2 !important;
+      margin: auto;
+      width: 100%;
+      box-sizing: content-box;
+      text-align: center;
+
+    }
